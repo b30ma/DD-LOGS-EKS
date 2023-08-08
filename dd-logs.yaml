@@ -1,0 +1,4 @@
+logs:
+  - type: container
+    path: /var/lib/docker/containers/*/*.log
+    source: eks
